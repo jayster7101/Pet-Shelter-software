@@ -1,0 +1,9 @@
+8
+Bird tam 34 6 90 45270 Green 0
+Bird lang 78 6 23 47607 pink 1
+Dog lop 90 6 23 30145 tree torkie
+Bird lop 34 6 45 22582 yelow 0
+Dog brodie 78.34 4 67 61135 KINGKOING hot_dog
+Bird chirppppy 999 3 67 22224 tan 1
+Dog DOOGO 56 2 34 43526 Hikl Pitbull
+Dog Benny 17.7 1 57.23 30211 His_bed_hes_a_sleepy_boy Sleepy_boy

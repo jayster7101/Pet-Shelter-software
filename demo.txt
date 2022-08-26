@@ -1,0 +1,6 @@
+5
+Dog phil 89 5 14 31383 frisbee German_shepard 2 5 0 No_Number none
+Dog jayden 20 9 185 5317 protein_powder human 0 2 0 No_Number none
+Bird Max 21 9 120 52713 white 1 1 3 1 9111110193 Patty
+Dog doggy 69 5 56 44672 soup German 2 5 1 7774535678 sally
+Bird sam 34 2 3 71774 green 1 1 2 1 7652340183 Liam
